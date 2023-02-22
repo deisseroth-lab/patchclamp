@@ -1,0 +1,15 @@
+name: patchclamp
+
+dependencies:
+  - python=3.9.6
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - glob2
+  - seaborn
+  - setuptools
+  - pip
+  - pip:
+    - pyabf
